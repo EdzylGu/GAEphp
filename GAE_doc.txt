@@ -1,0 +1,7 @@
+gcloud auth login
+
+appcfg.py -A edzylservices update /Users/Edzyl/Desktop/GAEphp
+
+
+facebook page
+https://developers.facebook.com/docs/plugins/page-plugin
